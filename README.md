@@ -12,7 +12,7 @@
 
 Сервер:
 ```bash
-    git clone git@gitwork.ru:kpk12/metro-app.git
+    git clone ...
     cd metro-app
     python3 src/load.py
     python3 src/api.py
